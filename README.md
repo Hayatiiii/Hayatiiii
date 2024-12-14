@@ -1,4 +1,4 @@
-# Hello! I am Nivas
+# Hello!!
 
 Welcome to my GitHub profile!
 
